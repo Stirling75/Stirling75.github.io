@@ -30,4 +30,8 @@ latest_posts:
 I am a Ph.D Student at **Korea University**, focusing on **Homomorphic Encryption** and related cryptographic technologies. 
 My current research interests include:
 - **Homomorphic Encryption** : Specifically, I'm interestesd in TFHE/FHEW-based homomorphic encryption schemes, and improving them. 
-- **Privacy-Preserving Techniques** 
+- **Privacy-Preserving Techniques** : Improving privacy in real-world using homomorphic encryption. 
+
+In the future, I plan to research on 
+- **Secure Multi-Party Computation (SMPC)**
+- **Post Quantum Cryptography (PQC)**
