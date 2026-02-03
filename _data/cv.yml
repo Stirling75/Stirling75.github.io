@@ -65,15 +65,20 @@ cv:
       - title: Semester High Honors
         authors:
           - Spring 2017, Spring 2018, Fall 2019
-        # date: 2029
+        date: 2016, 2018, 2019
         awarder: Korea University
 
       - title: Semester Honors
         authors:
           - Spring 2016, Fall 2016, Spring 2019
-        # date: 2029
+        date: 2016, 2019
         awarder: Korea University
         # summary: Awarded for outstanding scientific achievement
+
+    ScholarShips:
+      - title: Science Prodigy Scholarshiip
+        date: 2016-03
+        awarder: Korea University
 
     # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper
@@ -85,7 +90,7 @@ cv:
     #     summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
     
     Skills:
-      - name: Physics
+      - name: aaa
         level: Master
         icon: fa-solid fa-hashtag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
@@ -103,20 +108,10 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Secondary School Teacher(Grade Ⅱ)
+        date: 2020
+        issuer: Korea University
+        icon: fa-solid fa-pencil
 
     Projects:
       - name: Quantum Computing
