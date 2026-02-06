@@ -54,6 +54,12 @@ cv:
         # highlights:
         #   - Relativity
         #   - Description 2.
+      - company: Korea University
+        position: Undergraduate Intern
+        location: Seoul, South Korea
+        start_date: 2019-03
+        end_date: 2020-02
+        summary: Worked as an undergraduate intern in SPAI lab.
 
     Honors and Awards:
       - title: Outstanding Young Researcher Award
@@ -72,11 +78,11 @@ cv:
         awarder: Korea University
         summary: Spring 2016, Fall 2016, Spring 2019
 
-    Scholarships:  # 대소문자 주의 (보통 Scholarships)
-    - title: "Science Prodigy Scholarship"  # name 대신 title
-      issuer: "Korea University"             # awarder 대신 issuer
-      year: "2016"                           # date 대신 year
-      # description: "Full academic scholarship for undergraduate studies." # 설명 추가 가능
+    Scholarships: 
+    - title: "Science Prodigy Scholarship" 
+      issuer: "Korea University"            
+      year: "2016"                           
+      # description: "Full academic scholarship for undergraduate studies."
 
     # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper
